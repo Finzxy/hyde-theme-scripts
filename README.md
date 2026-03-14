@@ -1,3 +1,8 @@
+About :
+```
+scripts to generate custom themes with wallpaper for HyDE (Arch + Hyprland)
+```
+
 # 🎨 HyDE Theme Scripts
 
 just some bash scripts i made for managing custom themes on HyDE (Arch + Hyprland). nothing serious, use it if you want.
