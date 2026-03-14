@@ -29,6 +29,16 @@ paru -S python-pywal
 
 ---
 
+## installation
+
+```bash
+git clone https://github.com/Finzxy/hyde-theme-scripts.git
+cd hyde-theme-scripts
+chmod +x *.sh
+```
+
+---
+
 ## scripts
 
 | script | what it does |
